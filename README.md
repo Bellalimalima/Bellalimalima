@@ -14,6 +14,9 @@
   <img align="right" alt="Bella-gif" height="250" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
  </div>
 
+  
+  ##
+ 
  
 <div> 
   <a href = "mailto:isabellalimaelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
