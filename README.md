@@ -9,7 +9,7 @@
   <img align="center" alt="Bella-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bella-pic" height="40"<iframe src="https://giphy.com/embed/nnZVYuJt9JAYw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/snowflakes-nnZVYuJt9JAYw">via GIPHY</a></p>
+  <img align="right" alt="Bella-pic" height="40" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
 </div>
 
  ##
