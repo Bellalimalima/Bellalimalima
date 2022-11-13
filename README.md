@@ -1,7 +1,9 @@
 ## Oiee eu sou a Isabella Lima, uma desenvolvedora web apaixonada por tecnologia!
 
- <img align="center" alt="Bella-gif" height="250" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
+
 <div align="center">
+ 
+ <img align="center" alt="Bella-gif" height="250" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
   <a href="https://github.com/Bellalimalima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bellalimalima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellalimalima&layout=compact&langs_count=7&theme=dracula"/>
