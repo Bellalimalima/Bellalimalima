@@ -9,7 +9,7 @@
   <img align="center" alt="Bella-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bella-pic" height="150" style="border-radius:50px;" src="<div class="tenor-gif-embed" data-postid="14658755933696693824" data-share-method="host" data-aspect-ratio="0.887097" data-width="100%"><a href="https://tenor.com/view/hi-there-oh-hi-gif-14658755933696693824">Hi There Oh Hi Sticker</a>from <a href="https://tenor.com/search/hi+there-stickers">Hi There Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+  <img align="right" alt="Bella-pic" height="150" style="border-radius:50px;" src=""
 </div>
 
  ##
