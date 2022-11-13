@@ -12,7 +12,7 @@
   <img align="right" alt="Bella-gif" height="160" src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif"
 </div>
 
- ##file:///home/laboratoria/Downloads/gif%20bella.png
+ <img src:///home/laboratoria/Downloads/gif%20bella.png>
  
 <div> 
  
