@@ -9,7 +9,7 @@
   <img align="center" alt="Bella-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Bella-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/19FVsJTPvqtPRftFSln9iHakxuLI56vs_/view?usp=share_link">
+  <img align="right" alt="Bella-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/hi-there-oh-hi-gif-14658755933696693824">
 </div>
 
  ##
