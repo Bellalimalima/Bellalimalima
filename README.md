@@ -10,6 +10,7 @@
   <img align="center" alt="Bella-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bella-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="right" alt="Bella-gif" height="200" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif">
  </div>
 
@@ -22,7 +23,6 @@
   <a href="https://www.linkedin.com/in/isa-bella-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/Bellalimalima/Bellalimalima/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
 
 
