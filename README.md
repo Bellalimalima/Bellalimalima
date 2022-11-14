@@ -1,4 +1,4 @@
-## Oiee eu sou a Isabella Lima, uma desenvolvedora web apaixonada por tecnologia!
+## Oiii eu sou a Isabella Lima, uma desenvolvedora web apaixonada por tecnologia!
 
 <div align="center">
   <a href="https://github.com/Bellalimalima">
